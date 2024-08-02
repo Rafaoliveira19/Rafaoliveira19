@@ -3,10 +3,10 @@
 [![Rafael's GitHub stats](https://github-readme-stats.vercel.app/api?username=RafaOliveira19&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RafaOliveira19)](https://github.com/anuraghazra/github-readme-stats)
 ##
-- 👀 Gosto muito de programação e tecnologia, sou atualmente iniciante na área de programação, estudo atraves de alguns bootcamps e cursos
-- 🌱 Atualmente estudando HTML, CSS e JavaScript, As vezes um pouco de Java
-- 💞️ Futuro desenvolvedor FullStack
-- 📫 Contate-me no email: rafaeloliveira1344@gmail.com
+- Gosto muito de programação e tecnologia, sou atualmente iniciante na área de programação, estudo atraves de alguns bootcamps e cursos
+- Atualmente estudando HTML, CSS e JavaScript, As vezes um pouco de Java
+- Futuro desenvolvedor FullStack
+- Contate-me no email: rafaeloliveira1344@gmail.com
 ##
 <div>
   <img align="center" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
